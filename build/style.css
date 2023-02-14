@@ -1,0 +1,47 @@
+.flex-container {
+    display: flex;
+}
+
+#Pjobdesc {
+    line-height: 1em;
+}
+
+#Pjobdesc2 {
+    line-height: 1em;
+    margin-left: 1em;
+}
+
+#job {
+    margin-left: 0.5em;
+    margin-top: 1em;
+}
+
+#border {
+    border-top: solid;
+    border-color: rgb(204, 202, 200);
+}
+
+.flex-container {
+    display: flex;
+    align-items: stretch;
+}
+
+.flex-container>div {
+    border-style: solid;
+    border-radius: 0.4em;
+    border-color: rgb(211, 205, 197);
+    width: auto;
+    margin: 5px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 13px;
+}
+
+#divbenefit {
+    margin-left: 1em;
+    padding: 0.3em;
+}
+
+#mars {
+    margin-left: 2em;
+}
